@@ -1,0 +1,4 @@
+[submodule "directory_name"]
+	path = directory_name
+	url = git@github.com:sgnoohc/rooutil.git
+	branch = rooutil++
