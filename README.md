@@ -10,7 +10,7 @@ Welcome to the Grapher project! This repository contains a robust and versatile 
 3. [Getting Started](#getting-started)
 4. [Usage](#usage)
 5. [Contributing](#contributing)
-6. [Example of an output](#Example of an output)
+6. [Example of an output](#Example-of-an-output).
 
 
 ## Overview
